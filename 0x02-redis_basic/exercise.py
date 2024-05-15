@@ -2,7 +2,7 @@
 '''A module for using the Redis NoSQL data storage.
 '''
 import uuid
-#import redis
+import redis
 from functools import wraps
 from typing import Any, Callable, Union
 
